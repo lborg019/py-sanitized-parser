@@ -1,0 +1,201 @@
+--Attackers (Total dmg:137)--
+X Henry [137 dmg, 1 hits] (Killer)
+  Stomach:1 
+  Stomach:1 
+Henry inflicted most damage, 137 dmg in 1 hits!
+Henry inflicted most damage, 137 dmg in 1 hits!
+Most kills:Henry with 1 kills
+Most kills:Henry with 1 kills
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Henry" - 137 in 1 hit
+
+=====Round Score Break=====--Attackers (Total dmg:452)--
+X Henry [452 dmg, 1 hits] (Killer)
+  Head:1 
+  Head:1 
+Henry inflicted most damage, 452 dmg in 1 hits!
+Henry inflicted most damage, 452 dmg in 1 hits!
+Most kills:Henry with 1 kills
+Most kills:Henry with 1 kills
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Henry" - 452 in 1 hit
+
+=====Round Score Break=====--Victims (Total dmg:285)--X Henry [103 dmg, 2 hits] (Killed)
+  Head:1 Chest:1 
+  Head:1 Chest:1 
+X Doug [182 dmg, 2 hits] (Killed)
+X Doug [182 dmg, 2 hits] (Killed)
+  Head:2 
+  Head:2 
+--Attackers (Total dmg:103)--
+--Attackers (Total dmg:103)--
+X Yahn [103 dmg, 9 hits] (Killer)
+X Yahn [103 dmg, 9 hits] (Killer)
+  Chest:4 Stomach:5 
+  Chest:4 Stomach:5 
+Lukezin inflicted most damage, 285 dmg in 4 hits!
+Lukezin inflicted most damage, 285 dmg in 4 hits!
+Most kills:Lukezin with 2 kills
+Most kills:Lukezin with 2 kills
+Player: Lukezin - Damage Given
+Player: Lukezin - Damage Given
+-------------------------
+-------------------------
+Damage Given to "Doug" - 182 in 2 hits
+Damage Given to "Doug" - 182 in 2 hits
+Damage Given to "Henry" - 103 in 2 hits
+Damage Given to "Henry" - 103 in 2 hits
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Yahn" - 103 in 9 hits
+
+=====Round Score Break=====--Attackers (Total dmg:124)--
+X Adam [124 dmg, 1 hits] (Killer)
+  Head:1 
+  Head:1 
+Adam inflicted most damage, 124 dmg in 1 hits!
+Adam inflicted most damage, 124 dmg in 1 hits!
+Most kills:Adam with 1 kills
+Most kills:Adam with 1 kills
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Adam" - 124 in 1 hit
+
+=====Round Score Break=====--Attackers (Total dmg:105)--
+X Matt [105 dmg, 7 hits] (Killer)
+  Chest:3 Left arm:3 Left leg:1 
+  Chest:3 Left arm:3 Left leg:1 
+Matt inflicted most damage, 105 dmg in 7 hits!
+Matt inflicted most damage, 105 dmg in 7 hits!
+Most kills:Matt with 1 kills
+Most kills:Matt with 1 kills
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Matt" - 105 in 7 hits
+
+=====Round Score Break=====--Victims (Total dmg:504)--X Harold [109 dmg, 1 hits] (Killed)
+  Head:1 
+  Head:1 
+X Matt [105 dmg, 1 hits] (Killed)
+X Matt [105 dmg, 1 hits] (Killed)
+  Head:1 
+  Head:1 
+X Chris [184 dmg, 4 hits] (Killed)
+X Chris [184 dmg, 4 hits] (Killed)
+  Head:1 Left arm:2 Right arm:1 
+  Head:1 Left arm:2 Right arm:1 
+X Adam [106 dmg, 1 hits] (Killed
+X Adam [106 dmg, 1 hits] (Killed
+--Attackers (Total dmg:74)--
+--Attackers (Total dmg:74)--
+--Chris [74 dmg, 4 hits]
+--Chris [74 dmg, 4 hits]
+  Left arm:3 Left leg:1 
+  Left arm:3 Left leg:1 
+Lukezin inflicted most damage, 504 dmg in 7 hits!
+Lukezin inflicted most damage, 504 dmg in 7 hits!
+Most kills:Lukezin with 4 kills
+Most kills:Lukezin with 4 kills
+Player: Lukezin - Damage Given
+Player: Lukezin - Damage Given
+-------------------------
+-------------------------
+Damage Given to "Harold" - 109 in 1 hit
+Damage Given to "Harold" - 109 in 1 hit
+Damage Given to "Matt" - 105 in 1 hit
+Damage Given to "Matt" - 105 in 1 hit
+Damage Given to "Chris" - 184 in 4 hits
+Damage Given to "Chris" - 184 in 4 hits
+Damage Given to "Adam" - 106 in 1 hit
+Damage Given to "Adam" - 106 in 1 hit
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Chris" - 74 in 4 hits
+
+=====Round Score Break=====--Victims (Total dmg:533)--X Harold [132 dmg, 2 hits] (Killed)
+  Head:1 Left arm:1 
+  Head:1 Left arm:1 
+X Matt [107 dmg, 1 hits] (Killed)
+X Matt [107 dmg, 1 hits] (Killed)
+  Head:1 
+  Head:1 
+X Chris [136 dmg, 2 hits] (Killed)
+X Chris [136 dmg, 2 hits] (Killed)
+  Head:1 Left arm:1 
+  Head:1 Left arm:1 
+X Adam [158 dmg, 3 hits] (Killed)
+X Adam [158 dmg, 3 hits] (Killed)
+--Attackers (Total dmg:18)--
+--Attackers (Total dmg:18)--
+--Matt [18 dmg, 1 hits]
+--Matt [18 dmg, 1 hits]
+  Stomach:1 
+  Stomach:1 
+Lukezin inflicted most damage, 533 dmg in 8 hits!
+Lukezin inflicted most damage, 533 dmg in 8 hits!
+Most kills:Lukezin with 4 kills
+Most kills:Lukezin with 4 kills
+Player: Lukezin - Damage Given
+Player: Lukezin - Damage Given
+-------------------------
+-------------------------
+Damage Given to "Harold" - 132 in 2 hits
+Damage Given to "Harold" - 132 in 2 hits
+Damage Given to "Adam" - 158 in 3 hits
+Damage Given to "Adam" - 158 in 3 hits
+Damage Given to "Matt" - 107 in 1 hit
+Damage Given to "Matt" - 107 in 1 hit
+Damage Given to "Chris" - 136 in 2 hits
+Damage Given to "Chris" - 136 in 2 hits
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Matt" - 18 in 1 hit
+
+=====Round Score Break=====--Victims (Total dmg:132)--X Harold [105 dmg, 1 hits] (Killed)
+  Head:1 
+  Head:1 
+--Matt [27 dmg, 1 hits]
+--Matt [27 dmg, 1 hits]
+  Chest:1 
+  Chest:1 
+--Attackers (Total dmg:120)--
+--Attackers (Total dmg:120)--
+X Adam [120 dmg, 5 hits] (Killer)
+X Adam [120 dmg, 5 hits] (Killer)
+  Chest:3 Stomach:2 
+  Chest:3 Stomach:2 
+Lukezin inflicted most damage, 132 dmg in 2 hits!
+Lukezin inflicted most damage, 132 dmg in 2 hits!
+Most kills:Lukezin with 1 kills
+Most kills:Lukezin with 1 kills
+Player: Lukezin - Damage Given
+Player: Lukezin - Damage Given
+-------------------------
+-------------------------
+Damage Given to "Harold" - 105 in 1 hit
+Damage Given to "Harold" - 105 in 1 hit
+Damage Given to "Matt" - 27 in 1 hit
+Damage Given to "Matt" - 27 in 1 hit
+Player: Lukezin - Damage Taken
+Player: Lukezin - Damage Taken
+-------------------------
+-------------------------
+Damage Taken from "Adam" - 120 in 5 hits
+
+=====Round Score Break=====

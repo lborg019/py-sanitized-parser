@@ -1,0 +1,664 @@
+maxplayers set to 32
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (steamworks_sessionid_client)
+Hud element 'CHudVote' doesn't have an entry 'CHudVote' in scripts/HudLayout.res
+"A_BUTTON" isn't a valid key
+"B_BUTTON" isn't a valid key
+"X_BUTTON" isn't a valid key
+"Y_BUTTON" isn't a valid key
+"L_SHOULDER" isn't a valid key
+"R_SHOULDER" isn't a valid key
+"BACK" isn't a valid key
+"START" isn't a valid key
+"STICK1" isn't a valid key
+"STICK2" isn't a valid key
+"UP" isn't a valid key
+"DOWN" isn't a valid key
+"LEFT" isn't a valid key
+"L_TRIGGER" isn't a valid key
+"R_TRIGGER" isn't a valid key
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_upspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_forwardspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_backspeed in multiplayer, unless the server has sv_cheats set to 1.
+Unknown command "weapon_accuracy_logging"
+Unknown command "weapon_accuracy_model"
+Unknown command "mat_spewalloc"
+Unknown command "#"
+Unknown command "#"
+Unknown command "#"
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+'undo360controller.cfg' not present; not executing.
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+WARNING: Port 27015 was unavailable - bound to port 27016 instead
+WARNING: Port 27005 was unavailable - bound to port 27006 instead
+WARNING: Port 27020 was unavailable - bound to port 27021 instead
+Network: IP 131.94.130.35, mode MP, dedicated No, ports 27016 SV / 27006 CL
+Connecting to 131.94.130.35:27015...
+Connected to 131.94.130.35:27015
+
+Counter-Strike: Source
+Map: de_aztec
+Players: 1 / 6
+Build: 3398447
+Server Number: 1
+
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455
+   - Surface center : 28 -1856 -521
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455). This wastes perf for no benefit.
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_12_-906_-279
+   - Surface center : -156 -1280 -518
+Unable to initialize DirectSoundCapture. You won't be able to speak to other players.Loading 'cfg/autobuy_default.txt'
+Loading 'cfg/rebuy_default.txt'
+Lukezin connected.
+Compact freed 851968 bytes
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Scoring will not start until both teams have players
+Achievements disabled: cheats turned on in this app session.
+Bad RCON password
+autokick is disabled for Lukezin
+Derek connected.
+Scott connected.
+Ian connected.
+Could not add bot to the game: Team is stacked (to disable this check, set mp_autoteambalance to zero, increase mp_limitteams, and restart the round).
+Could not add bot to the game: Team is stacked (to disable this check, set mp_autoteambalance to zero, increase mp_limitteams, and restart the round).
+Could not add bot to the game: Team is stacked (to disable this check, set mp_autoteambalance to zero, increase mp_limitteams, and restart the round).
+Bill connected.
+Wyatt connected.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Shutdown function ShutdownMixerControls() not in list!!!
+maxplayers set to 32
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (steamworks_sessionid_client)
+Hud element 'CHudVote' doesn't have an entry 'CHudVote' in scripts/HudLayout.res
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_upspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_forwardspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_backspeed in multiplayer, unless the server has sv_cheats set to 1.
+Unknown command "weapon_accuracy_logging"
+Unknown command "weapon_accuracy_model"
+Unknown command "mat_spewalloc"
+Unknown command "#"
+Unknown command "#"
+Unknown command "#"
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+"name" = "Lukezin" ( def. "unnamed" )
+ archive server_can_execute
+ - Current user name
+"name" = "Lukezin" ( def. "unnamed" )
+ archive server_can_execute
+ - Current user name
+"name" = "Lukezin" ( def. "unnamed" )
+ archive server_can_execute
+ - Current user name
+WARNING: Port 27015 was unavailable - bound to port 27016 instead
+WARNING: Port 27005 was unavailable - bound to port 27006 instead
+WARNING: Port 27020 was unavailable - bound to port 27021 instead
+Network: IP 131.94.130.35, mode MP, dedicated No, ports 27016 SV / 27006 CL
+Connecting to 131.94.130.35:27015...
+Connected to 131.94.130.35:27015
+
+Counter-Strike: Source
+Map: de_aztec
+Players: 1 / 6
+Build: 3398447
+Server Number: 1
+
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455
+   - Surface center : 28 -1856 -521
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455). This wastes perf for no benefit.
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_12_-906_-279
+   - Surface center : -156 -1280 -518
+Unable to initialize DirectSoundCapture. You won't be able to speak to other players.Loading 'cfg/autobuy_default.txt'
+Loading 'cfg/rebuy_default.txt'
+Lukezin connected.
+Compact freed 851968 bytes
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Scoring will not start until both teams have players
+Bad RCON password
+autokick is disabled for Lukezin
+Ted connected.
+Tim connected.
+Doug connected.
+Yahn connected.
+Mark connected.
+Grant connected.
+Dustin connected.
+Andy connected.
+Dan connected.
+Henry connected.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Henry killed Lukezin with awp.
+--Attackers (Total dmg:137)--
+X Henry [137 dmg, 1 hits] (Killer)
+  Stomach:1 
+Achievements disabled: cheats turned on in this app session.
+Henry inflicted most damage, 137 dmg in 1 hits!
+Most kills:Henry with 1 kills
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Henry" - 137 in 1 hit
+Achievements disabled: cheats turned on in this app session.
+"mp_maxmoney" = "65000"
+ notify singleplayer replicated
+ - Set's max money limit
+Henry killed Lukezin with awp.
+--Attackers (Total dmg:452)--
+X Henry [452 dmg, 1 hits] (Killer)
+  Head:1 
+Achievements disabled: cheats turned on in this app session.
+Henry inflicted most damage, 452 dmg in 1 hits!
+Most kills:Henry with 1 kills
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Henry" - 452 in 1 hit
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "world" - 9 in 1 hit
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Doug with m4a1.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Henry with m4a1.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Yahn killed Lukezin with p90.
+
+--Victims (Total dmg:285)--
+X Henry [103 dmg, 2 hits] (Killed)
+  Head:1 Chest:1 
+X Doug [182 dmg, 2 hits] (Killed)
+  Head:2 
+--Attackers (Total dmg:103)--
+X Yahn [103 dmg, 9 hits] (Killer)
+  Chest:4 Stomach:5 
+Achievements disabled: cheats turned on in this app session.
+Lukezin inflicted most damage, 285 dmg in 4 hits!
+Most kills:Lukezin with 2 kills
+Player: Lukezin - Damage Given
+-------------------------
+Damage Given to "Doug" - 182 in 2 hits
+Damage Given to "Henry" - 103 in 2 hits
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Yahn" - 103 in 9 hits
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Shutdown function ShutdownMixerControls() not in list!!!
+maxplayers set to 32
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (steamworks_sessionid_client)
+Hud element 'CHudVote' doesn't have an entry 'CHudVote' in scripts/HudLayout.res
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_upspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_forwardspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_backspeed in multiplayer, unless the server has sv_cheats set to 1.
+Unknown command "weapon_accuracy_logging"
+Unknown command "weapon_accuracy_model"
+Unknown command "mat_spewalloc"
+Unknown command "#"
+Unknown command "#"
+Unknown command "#"
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+WARNING: Port 27015 was unavailable - bound to port 27016 instead
+WARNING: Port 27005 was unavailable - bound to port 27006 instead
+WARNING: Port 27020 was unavailable - bound to port 27021 instead
+Network: IP 131.94.130.35, mode MP, dedicated No, ports 27016 SV / 27006 CL
+Connecting to 131.94.130.35:27015...
+Connected to 131.94.130.35:27015
+
+Counter-Strike: Source
+Map: de_aztec
+Players: 1 / 6
+Build: 3398447
+Server Number: 1
+
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455
+   - Surface center : 28 -1856 -521
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455). This wastes perf for no benefit.
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_12_-906_-279
+   - Surface center : -156 -1280 -518
+Unable to initialize DirectSoundCapture. You won't be able to speak to other players.Loading 'cfg/autobuy_default.txt'
+Loading 'cfg/rebuy_default.txt'
+Lukezin connected.
+Compact freed 851968 bytes
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Scoring will not start until both teams have players
+Bad RCON password
+autokick is disabled for Lukezin
+Ian connected.
+Greg connected.
+Wade connected.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Ian with hegrenade.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Greg suicided.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Wade with hegrenade.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Wade with hegrenade.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Shutdown function ShutdownMixerControls() not in list!!!
+maxplayers set to 32
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (steamworks_sessionid_client)
+Hud element 'CHudVote' doesn't have an entry 'CHudVote' in scripts/HudLayout.res
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_upspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_forwardspeed in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cl_backspeed in multiplayer, unless the server has sv_cheats set to 1.
+Unknown command "weapon_accuracy_logging"
+Unknown command "weapon_accuracy_model"
+Unknown command "mat_spewalloc"
+Unknown command "#"
+Unknown command "#"
+Unknown command "#"
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+WARNING: Port 27015 was unavailable - bound to port 27016 instead
+WARNING: Port 27005 was unavailable - bound to port 27006 instead
+WARNING: Port 27020 was unavailable - bound to port 27021 instead
+Network: IP 131.94.130.35, mode MP, dedicated No, ports 27016 SV / 27006 CL
+Connecting to 131.94.130.35:27015...
+Connected to 131.94.130.35:27015
+
+Counter-Strike: Source
+Map: de_aztec
+Players: 1 / 6
+Build: 3398447
+Server Number: 1
+
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455
+   - Surface center : 28 -1856 -521
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: maps/de_aztec/de_aztec/swampground_blend_-384_-1520_-455). This wastes perf for no benefit.
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : maps/de_aztec/de_aztec/swampground_blend_12_-906_-279
+   - Surface center : -156 -1280 -518
+Unable to initialize DirectSoundCapture. You won't be able to speak to other players.Loading 'cfg/autobuy_default.txt'
+Loading 'cfg/rebuy_default.txt'
+Lukezin connected.
+Compact freed 856064 bytes
+Using joystick 'Steam Controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Scoring will not start until both teams have players
+Bad RCON password
+autokick is disabled for Lukezin
+Lukezin :  @all Hello
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+"sm_sw_enabled" = "1"
+ - "1" = "Start weapon" plugin is active, "0" = "Start weapon" plugin is disabled
+Tom connected.
+Harold connected.
+Matt connected.
+Chris connected.
+Adam connected.
+Jason connected.
+Henry connected.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Unknown command: rcon_restart_round
+Unknown command "mp_restart_round"
+Adam killed Lukezin with m4a1.
+--Attackers (Total dmg:124)--
+X Adam [124 dmg, 1 hits] (Killer)
+  Head:1 
+Achievements disabled: cheats turned on in this app session.
+Adam inflicted most damage, 124 dmg in 1 hits!
+Most kills:Adam with 1 kills
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Adam" - 124 in 1 hit
+Unknown command "sv_restartroun"
+Achievements disabled: cheats turned on in this app session.
+The game will restart in 1 SECOND
+Matt killed Lukezin with p90.
+--Attackers (Total dmg:105)--
+X Matt [105 dmg, 7 hits] (Killer)
+  Chest:3 Left arm:3 Left leg:1 
+Achievements disabled: cheats turned on in this app session.
+Matt inflicted most damage, 105 dmg in 7 hits!
+Most kills:Matt with 1 kills
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Matt" - 105 in 7 hits
+Achievements disabled: cheats turned on in this app session.
+The game will restart in 1 SECOND
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Harold with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Matt with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Chris with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Adam with ak47.
+Achievements disabled: cheats turned on in this app session.
+
+--Victims (Total dmg:504)--
+X Harold [109 dmg, 1 hits] (Killed)
+  Head:1 
+X Matt [105 dmg, 1 hits] (Killed)
+  Head:1 
+X Chris [184 dmg, 4 hits] (Killed)
+  Head:1 Left arm:2 Right arm:1 
+X Adam [106 dmg, 1 hits] (Killed
+--Attackers (Total dmg:74)--
+--Chris [74 dmg, 4 hits]
+  Left arm:3 Left leg:1 
+Lukezin inflicted most damage, 504 dmg in 7 hits!
+Most kills:Lukezin with 4 kills
+Achievements disabled: cheats turned on in this app session.
+Player: Lukezin - Damage Given
+-------------------------
+Damage Given to "Harold" - 109 in 1 hit
+Damage Given to "Matt" - 105 in 1 hit
+Damage Given to "Chris" - 184 in 4 hits
+Damage Given to "Adam" - 106 in 1 hit
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Chris" - 74 in 4 hits
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Harold with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Adam with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Matt with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Chris with ak47.
+Achievements disabled: cheats turned on in this app session.
+
+--Victims (Total dmg:533)--
+X Harold [132 dmg, 2 hits] (Killed)
+  Head:1 Left arm:1 
+X Matt [107 dmg, 1 hits] (Killed)
+  Head:1 
+X Chris [136 dmg, 2 hits] (Killed)
+  Head:1 Left arm:1 
+X Adam [158 dmg, 3 hits] (Killed)
+--Attackers (Total dmg:18)--
+--Matt [18 dmg, 1 hits]
+  Stomach:1 
+Lukezin inflicted most damage, 533 dmg in 8 hits!
+Most kills:Lukezin with 4 kills
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Player: Lukezin - Damage Given
+-------------------------
+Damage Given to "Harold" - 132 in 2 hits
+Damage Given to "Adam" - 158 in 3 hits
+Damage Given to "Matt" - 107 in 1 hit
+Damage Given to "Chris" - 136 in 2 hits
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Matt" - 18 in 1 hit
+Achievements disabled: cheats turned on in this app session.
+Lukezin killed Harold with ak47.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Adam killed Lukezin with m4a1.
+
+--Victims (Total dmg:132)--
+X Harold [105 dmg, 1 hits] (Killed)
+  Head:1 
+--Matt [27 dmg, 1 hits]
+  Chest:1 
+--Attackers (Total dmg:120)--
+X Adam [120 dmg, 5 hits] (Killer)
+  Chest:3 Stomach:2 
+Achievements disabled: cheats turned on in this app session.
+Lukezin inflicted most damage, 132 dmg in 2 hits!
+Most kills:Lukezin with 1 kills
+Player: Lukezin - Damage Given
+-------------------------
+Damage Given to "Harold" - 105 in 1 hit
+Damage Given to "Matt" - 27 in 1 hit
+Player: Lukezin - Damage Taken
+-------------------------
+Damage Taken from "Adam" - 120 in 5 hits
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Shutdown function ShutdownMixerControls() not in list!!!
